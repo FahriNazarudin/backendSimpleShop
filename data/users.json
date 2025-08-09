@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "admin1",
+    "email": "admin1@example.com",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "081298765432",
+    "createdAt": "2025-08-06T09:10:00Z",
+    "updatedAt": "2025-08-06T09:10:00Z"
+  },
+  {
+    "id": 2,
+    "name": "admin2",
+    "email": "admin2@example.com",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "081298765432",
+    "createdAt": "2025-08-06T09:10:00Z",
+    "updatedAt": "2025-08-06T09:10:00Z"
+  },
+  {
+    "id": 3,
+    "name": "budi",
+    "email": "budi@example.com",
+    "password": "budi",
+    "role": "customer",
+    "phone": "081298765432",
+    "createdAt": "2025-08-06T09:10:00Z",
+    "updatedAt": "2025-08-06T09:10:00Z"
+  }
+]

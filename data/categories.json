@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "name": "Makanan Berat",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MakananBerat?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:00:00Z",
+    "updatedAt": "2025-08-06T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Cemilan",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20Cemilan?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:01:00Z",
+    "updatedAt": "2025-08-06T10:01:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Minuman Dingin",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MinumanDingin?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:02:00Z",
+    "updatedAt": "2025-08-06T10:02:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Kue & Roti",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20Kue?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:03:00Z",
+    "updatedAt": "2025-08-06T10:03:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Makanan Ringan",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MakananRinganTradisionalwidth=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:04:00Z",
+    "updatedAt": "2025-08-06T10:04:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Makanan Pedas",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MakananPedas?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:05:00Z",
+    "updatedAt": "2025-08-06T10:05:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Minuman Hangat",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MinumanHangat?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:06:00Z",
+    "updatedAt": "2025-08-06T10:06:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Dessert",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20Dessert?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:07:00Z",
+    "updatedAt": "2025-08-06T10:07:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Masakan Nusantara",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MakananBerat?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:08:00Z",
+    "updatedAt": "2025-08-06T10:08:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Makanan Cepat Saji",
+     "imgUrl": "https://image.pollinations.ai/prompt/vector%20icon%20MakananCepatSaji?width=200&height=200&nologo=true",
+    "createdAt": "2025-08-06T10:09:00Z",
+    "updatedAt": "2025-08-06T10:09:00Z"
+  }
+]
